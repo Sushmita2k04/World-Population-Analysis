@@ -26,7 +26,6 @@ Handled them accordingly.
 ### **2. Visualization**
 Created:
 - Bar chart
-- Stacked chart
 
 These visualize the distribution of a categorical or continuous variable.
 
